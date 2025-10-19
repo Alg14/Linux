@@ -28,7 +28,7 @@ The Bandit wargame is built as a **progressive learning challenge**. Each level 
 | Skill Area                 | Commands / Topics Used |
 |---------------------------|------------------------|
 | File & Directory Navigation | `ls`, `cd`, `pwd`, `find` |
-| File Permissions & Ownership | `ls -l`, `find -group` `find -user`|
+| File Permissions & Ownership | `chmod`, `find -group` `find -user`|
 | Searching & Filtering        | `grep`, `strings`, `awk`, `uniq`, `sort`, `tr` |
 | Compression & Encoding       | `gzip`, `base64`, `xxd`, `tar` |
 | Remote Access                | `ssh` |
